@@ -1,14 +1,14 @@
-# Privacy Policy for Mind Yourself
+# Privacy Policy for Mind Yourself Journal
 
   **Last updated:** January 2026
 
   ## The Short Version
 
-  Mind Yourself stores everything locally on your device. We have no servers, no accounts, and no way to access your data.
+  Mind Yourself Journal stores everything locally on your device. We have no servers, no accounts, and no way to access your data.
 
   ## What the App Stores (On Your Device Only)
 
-  Mind Yourself keeps the following data on your phone:
+  Mind Yourself Journal keeps the following data on your phone:
 
   - Journal entries (check-ins, moods, gratitudes, reflections)
   - Habits you create and track
